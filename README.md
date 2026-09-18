@@ -1,9 +1,5 @@
 # Credit_Card_Fraud_Detection
 Credit Card Fraud Detection Project
-
-# Overview
-Credit card fraud detection is a challenging machine learning problem because fraudulent transactions represent only a small fraction of all transactions. This project explores multiple classification models to identify fraudulent transactions while minimizing false positives.
-The project compares several machine learning
  
 # Overview
 Credit card fraud detection is a challenging machine learning problem because fraudulent transactions represent only a small fraction of all transactions. This project explores multiple classification models to identify fraudulent transactions while minimizing false positives.
@@ -12,9 +8,13 @@ This project was completed collaboratively as part of ALY6040 – Data Mining Ap
 
 # Objectives
 Analyze patterns in credit card transactions
+
 Build and compare multiple machine learning models
+
 Evaluate model performance on an imbalanced dataset
+
 Interpret model predictions using explainable AI (SHAP)
+
 Identify the best-performing approach for fraud detection
 
 # Dataset
